@@ -10,82 +10,82 @@ const chairContents = [
     {
         title: 'Erkin',
         image: 'https://via.placeholder.com/100?text=Chair+1',
-        description: 'This is the first chair.'
+        description: 'He is definitely a good person but sometimes can have some problems with people. His famous quote is: "Sanane <insert name>"'
     },
     {
         title: 'Dila',
         image: 'https://via.placeholder.com/100?text=Chair+2',
-        description: 'This is the second chair.'
+        description: 'I do not have an idea what to type here.'
     },
     {
         title: 'Giray',
         image: 'https://via.placeholder.com/100?text=Chair+3',
-        description: 'This is the third chair.'
+        description: 'He is a newcomer and sometimes can insert noise to the classroom'
     },
     {
         title: 'Öykü',
         image: 'https://via.placeholder.com/100?text=Chair+4',
-        description: 'This is the fourth chair.'
+        description: "She sometimes doesn't speak but communicates with other girls near her."
     },
     {
         title: 'Barış',
         image: 'https://via.placeholder.com/100?text=Chair+5',
-        description: 'This is the fifth chair.'
+        description: 'Barış sometimes makes noise and if he sits with the right peole he can make a decent amount of noise.'
     },
     {
         title: 'Kerem',
         image: 'https://via.placeholder.com/100?text=Chair+6',
-        description: 'This is the sixth chair.'
+        description: 'Kerem is Kerem.'
     },
     {
-        title: 'Chair 7',
+        title: 'İlke',
         image: 'https://via.placeholder.com/100?text=Chair+7',
-        description: 'This is the seventh chair.'
+        description: 'İlke is the messenger of this class. Anything that hapens she ill sread it around the whole school and sometimes overexaggerate it.'
     },
     {
-        title: 'Chair 8',
+        title: 'Doruk',
         image: 'https://via.placeholder.com/100?text=Chair+8',
-        description: 'This is the eighth chair.'
+        description: 'A lot of noise comes from this area.'
     },
     {
         title: 'Poyraz',
         image: 'https://via.placeholder.com/100?text=Chair+9',
-        description: 'This is the ninth chair.'
+        description: 'My lawyers have advised me to skip this joke.'
     },
     {
         title: 'Hasan',
         image: 'https://via.placeholder.com/100?text=Chair+10',
-        description: 'Me'
+        description: 'A person that imo is ool but sometimes even I acknowledge that I am cringe.'
     },
     {
         title: 'Umut',
         image: 'https://via.placeholder.com/100?text=Chair+11',
-        description: 'This is the eleventh chair.'
+        description: 'He is a good guy, sometimes abused by Bera'
     },
     {
         title: 'Bera',
         image: 'https://via.placeholder.com/100?text=Chair+12',
-        description: 'This is the twelfth chair.'
+        description: "He doesn't make a lot of noise but he is a master at making the teachers angry"
     },
     {
         title: 'Ata',
         image: 'https://via.placeholder.com/100?text=Chair+13',
-        description: 'This is the thirteenth chair.'
+        description: 'Really quiet and friendly, a really good friend but if you make him angry he will get ANGRY.'
     },
     {
         title: 'Dünya',
         image: 'https://via.placeholder.com/100?text=Chair+14',
-        description: 'This is the fourteenth chair.'
+        description: "My lawyers have advised me to skip this joke because I have beef with her and I don't know what she can do to my cyber security career."
     },
     {
-        title: 'Chair 15',
+        title: 'Cevdet',
         image: 'https://via.placeholder.com/100?text=Chair+15',
-        description: 'This is the fifteenth chair.'
+        description: 'He is a good person when I first got into this class I absolutely despised him but hen I started to sit with him things changed.'
     },
     {
-        title: 'Chair 16',
+        title: 'Rüzgar',
         image: 'https://via.placeholder.com/100?text=Chair+16',
-        description: 'This is the sixteenth chair.'
+        description: '"I am Noise"'
     },
 ];
 
